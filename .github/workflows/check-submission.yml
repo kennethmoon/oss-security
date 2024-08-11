@@ -1,4 +1,4 @@
-name: Check Submission
+name: Check Submission 
 
 on:
   pull_request_target:
